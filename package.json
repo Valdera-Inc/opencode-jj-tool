@@ -1,0 +1,11 @@
+{
+  "name": "opencode-jj-tool",
+  "version": "0.1.0",
+  "description": "opencode plugin that provides a jujutsu (jj) tool",
+  "type": "module",
+  "main": "./index.ts",
+  "exports": "./index.ts",
+  "peerDependencies": {
+    "@opencode-ai/plugin": "*"
+  }
+}
